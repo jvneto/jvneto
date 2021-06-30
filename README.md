@@ -10,7 +10,8 @@
  
 </div>
 
-<div>
-  <a href="https://google.com.br">
-  <img src="https://github.com/gabrieldp23/sBotics_Snippets_vscode/blob/main/assets/logo.png?raw=true" height="200" alt="Logo snippets sBotics" />
-</div>
+<p align="center">
+  <a href="vscode:extension/sbotics-simulator.sbotics-extension">
+    <img src="https://github.com/gabrieldp23/sBotics_Snippets_vscode/blob/main/assets/logo.png?raw=true" height="200" alt="Logo snippets sBotics" />
+  </a>
+</p>

@@ -9,9 +9,3 @@
   [![Snake animation](https://github.com/jvneto/jvneto/blob/output/github-contribution-grid-snake.svg)](https://github.com/jvneto)
  
 </div>
-
-<p align="center">
-  <a href="vscode:extension/sbotics-simulator.sbotics-extension">
-    <img src="https://github.com/gabrieldp23/sBotics_Snippets_vscode/blob/main/assets/logo.png?raw=true" height="200" alt="Logo snippets sBotics" />
-  </a>
-</p>
